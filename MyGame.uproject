@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+    {
+      "Name": "MyGame",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+		{
+			"Name": "MyGameEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
